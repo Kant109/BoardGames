@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Mysterium",
+    "description": "Un jeu coopératif mystérieux où un fantôme guide les médiums pour résoudre son meurtre à travers des visions énigmatiques.",
+    "image": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__itemrep/img/w_Dvb6hWYgSr_glCXZd3p6GqkTQ=/fit-in/246x300/filters:strip_icc()/pic8625343.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Le bal des chaudrons",
+    "description": "Préparez vos potions et enchantements dans ce jeu de collecte d'ingrédients magiques, parfait pour une soirée enchantée.",
+    "image": "https://cf.geekdo-images.com/Vghbon6jnyUg6oPQju7DyQ__itemrep/img/rtZHQTcxbxoAlUTA4-d8UVTQC4U=/fit-in/246x300/filters:strip_icc()/pic6088814.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Skull King",
+    "description": "Un jeu de plis où vous devez annoncer exactement combien de levées vous allez remporter. Pirates et sirènes ajoutent du piment!",
+    "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep/img/duwIufYC4mHrAqmv9Wp2qCg_jVI=/fit-in/246x300/filters:strip_icc()/pic8689185.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mille sabords",
+    "description": "Lancez les dés et tentez votre chance pour amasser le plus de richesses, mais attention aux têtes de mort qui mettent fin à votre tour!",
+    "image": "https://cf.geekdo-images.com/ASvNr8Z7n4uuXiIeKTCpjA__itemrep/img/ZEB_lp-2_nPAvL1vs0Gbyv8yd3I=/fit-in/246x300/filters:strip_icc()/pic5755894.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Catan",
+    "description": "Le classique incontournable de la colonisation! Construisez routes, villages et cités sur l'île de Catan en négociant habilement.",
+    "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep/img/6Jf5G-bSvdOIMUSwxsJfZXl29B8=/fit-in/246x300/filters:strip_icc()/pic9156909.png"
+  },
+  {
+    "id": 6,
+    "name": "Res Arcana",
+    "description": "Un jeu de gestion de ressources où vous incarnez un mage combinant artefacts et créatures pour atteindre 10 points de victoire.",
+    "image": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Akropolis",
+    "description": "Construisez la plus belle cité grecque en empilant tuiles et quartiers. L'optimisation spatiale est la clé de la victoire!",
+    "image": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep/img/Z9D0pCwwJ8tdOq6u1RC4ZGvw4yw=/fit-in/246x300/filters:strip_icc()/pic6705097.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cascadia",
+    "description": "Créez des habitats harmonieux en plaçant tuiles et animaux. Un jeu de draft apaisant aux règles simples et à la profondeur stratégique.",
+    "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dune Imperium",
+    "description": "Mélange worker placement et deckbuilding dans l'univers de Dune. Contrôlez l'épice pour dominer l'Imperium!",
+    "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep/img/3_xJ0tO5L62bUp2oRfjeVS0DHX0=/fit-in/246x300/filters:strip_icc()/pic5666597.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Brass Lancashire",
+    "description": "Un jeu économique exigeant sur la révolution industrielle en Angleterre. Construisez canaux, mines et industries.",
+    "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__itemrep/img/A9DQBjrHvs1YlYCWMD0mtp-jnNc=/fit-in/246x300/filters:strip_icc()/pic3469216.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Azul",
+    "description": "Décorez les murs du palais royal en sélectionnant stratégiquement des azulejos colorés. Élégant et addictif!",
+    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png"
+  },
+  {
+    "id": 12,
+    "name": "Darwin",
+    "description": "Faites évoluer votre espèce en adaptant ses caractéristiques pour survivre aux changements climatiques et environnementaux.",
+    "image": "https://cf.geekdo-images.com/-A_ABjMw4PdoAZrH-FjiiA__itemrep/img/jAfHCmAqiY2pdq-SvbhgJDxoqIc=/fit-in/246x300/filters:strip_icc()/pic5726930.png"
+  },
+  {
+    "id": 13,
+    "name": "Marie Curie",
+    "description": "Incarnez des scientifiques cherchant à faire des découvertes révolutionnaires en collectant et combinant ressources et éléments.",
+    "image": "https://cf.geekdo-images.com/z7XZ5_k20MNN2gcxShqZwQ__itemrep/img/BDEP-DT_93mfC0ed5c9jgtIWWzk=/fit-in/246x300/filters:strip_icc()/pic7999443.png"
+  }
+]
