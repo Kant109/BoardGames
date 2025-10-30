@@ -3,138 +3,184 @@
     "id": 1,
     "name": "Mysterium",
     "description": "Un jeu coopératif mystérieux où un fantôme guide les médiums pour résoudre son meurtre à travers des visions énigmatiques.",
-    "image": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__itemrep/img/w_Dvb6hWYgSr_glCXZd3p6GqkTQ=/fit-in/246x300/filters:strip_icc()/pic8625343.jpg"
+    "image": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__itemrep/img/w_Dvb6hWYgSr_glCXZd3p6GqkTQ=/fit-in/246x300/filters:strip_icc()/pic8625343.jpg",
+    "players": "2-7",
+    "duration": "42"
   },
   {
     "id": 2,
     "name": "Le bal des chaudrons",
     "description": "Préparez vos potions et enchantements dans ce jeu de collecte d'ingrédients magiques, parfait pour une soirée enchantée.",
-    "image": "https://cf.geekdo-images.com/Vghbon6jnyUg6oPQju7DyQ__itemrep/img/rtZHQTcxbxoAlUTA4-d8UVTQC4U=/fit-in/246x300/filters:strip_icc()/pic6088814.jpg"
+    "image": "https://cf.geekdo-images.com/Vghbon6jnyUg6oPQju7DyQ__itemrep/img/rtZHQTcxbxoAlUTA4-d8UVTQC4U=/fit-in/246x300/filters:strip_icc()/pic6088814.jpg",
+    "players": "2-4",
+    "duration": "45"
   },
   {
     "id": 3,
     "name": "Skull King",
     "description": "Un jeu de plis où vous devez annoncer exactement combien de levées vous allez remporter. Pirates et sirènes ajoutent du piment!",
-    "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep/img/duwIufYC4mHrAqmv9Wp2qCg_jVI=/fit-in/246x300/filters:strip_icc()/pic8689185.jpg"
+    "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep/img/duwIufYC4mHrAqmv9Wp2qCg_jVI=/fit-in/246x300/filters:strip_icc()/pic8689185.jpg",
+    "players": "2-6",
+    "duration": "30"
   },
   {
     "id": 4,
     "name": "Mille sabords",
     "description": "Lancez les dés et tentez votre chance pour amasser le plus de richesses, mais attention aux têtes de mort qui mettent fin à votre tour!",
-    "image": "https://cf.geekdo-images.com/ASvNr8Z7n4uuXiIeKTCpjA__itemrep/img/ZEB_lp-2_nPAvL1vs0Gbyv8yd3I=/fit-in/246x300/filters:strip_icc()/pic5755894.jpg"
+    "image": "https://cf.geekdo-images.com/ASvNr8Z7n4uuXiIeKTCpjA__itemrep/img/ZEB_lp-2_nPAvL1vs0Gbyv8yd3I=/fit-in/246x300/filters:strip_icc()/pic5755894.jpg",
+    "players": "2-6",
+    "duration": "30"
   },
   {
     "id": 5,
     "name": "Catan",
     "description": "Le classique incontournable de la colonisation! Construisez routes, villages et cités sur l'île de Catan en négociant habilement.",
-    "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep/img/6Jf5G-bSvdOIMUSwxsJfZXl29B8=/fit-in/246x300/filters:strip_icc()/pic9156909.png"
+    "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep/img/6Jf5G-bSvdOIMUSwxsJfZXl29B8=/fit-in/246x300/filters:strip_icc()/pic9156909.png",
+    "players": "3-4",
+    "duration": "60-120"
   },
   {
     "id": 6,
     "name": "Res Arcana",
     "description": "Un jeu de gestion de ressources où vous incarnez un mage combinant artefacts et créatures pour atteindre 10 points de victoire.",
-    "image": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg"
+    "image": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg",
+    "players": "2-4",
+    "duration": "20-60"
   },
   {
     "id": 7,
     "name": "Akropolis",
     "description": "Construisez la plus belle cité grecque en empilant tuiles et quartiers. L'optimisation spatiale est la clé de la victoire!",
-    "image": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep/img/Z9D0pCwwJ8tdOq6u1RC4ZGvw4yw=/fit-in/246x300/filters:strip_icc()/pic6705097.jpg"
+    "image": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep/img/Z9D0pCwwJ8tdOq6u1RC4ZGvw4yw=/fit-in/246x300/filters:strip_icc()/pic6705097.jpg",
+    "players": "2-4",
+    "duration": "20-30"
   },
   {
     "id": 8,
     "name": "Cascadia",
     "description": "Créez des habitats harmonieux en plaçant tuiles et animaux. Un jeu de draft apaisant aux règles simples et à la profondeur stratégique.",
-    "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg"
+    "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg",
+    "players": "1-4",
+    "duration": "30-45"
   },
   {
     "id": 9,
     "name": "Dune Imperium",
     "description": "Mélange worker placement et deckbuilding dans l'univers de Dune. Contrôlez l'épice pour dominer l'Imperium!",
-    "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep/img/3_xJ0tO5L62bUp2oRfjeVS0DHX0=/fit-in/246x300/filters:strip_icc()/pic5666597.jpg"
+    "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep/img/3_xJ0tO5L62bUp2oRfjeVS0DHX0=/fit-in/246x300/filters:strip_icc()/pic5666597.jpg",
+    "players": "1-4",
+    "duration": "60-120"
   },
   {
     "id": 10,
     "name": "Brass Lancashire",
     "description": "Un jeu économique exigeant sur la révolution industrielle en Angleterre. Construisez canaux, mines et industries.",
-    "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__itemrep/img/A9DQBjrHvs1YlYCWMD0mtp-jnNc=/fit-in/246x300/filters:strip_icc()/pic3469216.jpg"
+    "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__itemrep/img/A9DQBjrHvs1YlYCWMD0mtp-jnNc=/fit-in/246x300/filters:strip_icc()/pic3469216.jpg",
+    "players": "2-4",
+    "duration": "60-120"
   },
   {
     "id": 11,
     "name": "Azul",
     "description": "Décorez les murs du palais royal en sélectionnant stratégiquement des azulejos colorés. Élégant et addictif!",
-    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png"
+    "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png",
+    "players": "2-4",
+    "duration": "30-45"
   },
   {
     "id": 12,
     "name": "Darwin",
     "description": "Faites évoluer votre espèce en adaptant ses caractéristiques pour survivre aux changements climatiques et environnementaux.",
-    "image": "https://cf.geekdo-images.com/1KPQC8pVuTXL32RdbTxDjw__itemrep/img/qERM9Gdsk2NVgdiN1HhD9pC5vDg=/fit-in/246x300/filters:strip_icc()/pic7234392.jpg"
+    "image": "https://cf.geekdo-images.com/1KPQC8pVuTXL32RdbTxDjw__itemrep/img/qERM9Gdsk2NVgdiN1HhD9pC5vDg=/fit-in/246x300/filters:strip_icc()/pic7234392.jpg",
+    "players": "2-4",
+    "duration": "30-60"
   },
   {
     "id": 13,
     "name": "Marie Curie",
     "description": "Incarnez des scientifiques cherchant à faire des découvertes révolutionnaires en collectant et combinant ressources et éléments.",
-    "image": "https://cf.geekdo-images.com/z7XZ5_k20MNN2gcxShqZwQ__itemrep/img/BDEP-DT_93mfC0ed5c9jgtIWWzk=/fit-in/246x300/filters:strip_icc()/pic7999443.png"
+    "image": "https://cf.geekdo-images.com/z7XZ5_k20MNN2gcxShqZwQ__itemrep/img/BDEP-DT_93mfC0ed5c9jgtIWWzk=/fit-in/246x300/filters:strip_icc()/pic7999443.png",
+    "players": "1-4",
+    "duration": "30-60"
   },
   {
     "id": 14,
     "name": "Le Donjon de Naheulbeuk",
     "description": "Explorez un donjon rempli de pièges et de monstres dans une aventure humoristique. Coopération et improvisation sont de mise.",
-    "image": "https://cf.geekdo-images.com/4jo_aKkkFDz318mmfpwIVw__itemrep/img/PBFCY2zAJ-NlzDUTdNdUQzsmwZQ=/fit-in/246x300/filters:strip_icc()/pic1716862.png"
+    "image": "https://cf.geekdo-images.com/4jo_aKkkFDz318mmfpwIVw__itemrep/img/PBFCY2zAJ-NlzDUTdNdUQzsmwZQ=/fit-in/246x300/filters:strip_icc()/pic1716862.png",
+    "players": "2-5",
+    "duration": "60-90"
   },
   {
     "id": 15,
     "name": "TTMC",
-    "description": "Débattez et auto-évaluez vos connaissances dans des situations amusantes et surprenantes. Un jeu d’ambiance et de culture générale.",
-    "image": "https://cf.geekdo-images.com/MwprNXpMeLcweqtw-XH_yQ__itemrep/img/qgaabYDGFTI2R4H0xGzmZLeiBE4=/fit-in/246x300/filters:strip_icc()/pic4357288.png"
+    "description": "Débattez et auto-évaluez vos connaissances dans des situations amusantes et surprenantes. Un jeu d'ambiance et de culture générale.",
+    "image": "https://cf.geekdo-images.com/MwprNXpMeLcweqtw-XH_yQ__itemrep/img/qgaabYDGFTI2R4H0xGzmZLeiBE4=/fit-in/246x300/filters:strip_icc()/pic4357288.png",
+    "players": "2-16",
+    "duration": "30-60"
   },
   {
     "id": 16,
     "name": "Odin",
-    "description": "Menez votre peuple viking à la prospérité grâce au placement d’ouvriers et à la gestion des ressources. Stratégie et planification sont primordiales.",
-    "image": "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__itemrep/img/shH_xtvVrn_DU4pNe2-2BlMTknA=/fit-in/246x300/filters:strip_icc()/pic7921978.jpg"
+    "description": "Menez votre peuple viking à la prospérité grâce au placement d'ouvriers et à la gestion des ressources. Stratégie et planification sont primordiales.",
+    "image": "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__itemrep/img/shH_xtvVrn_DU4pNe2-2BlMTknA=/fit-in/246x300/filters:strip_icc()/pic7921978.jpg",
+    "players": "1-4",
+    "duration": "30-140"
   },
   {
     "id": 17,
     "name": "Sea Salt and Paper",
     "description": "Collectionnez des cartes et créez des combos dans un univers marin. Un jeu rapide et tactique pour amateurs de cartes.",
-    "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep/img/GnrjU-bLmrdUTF_H31vBMTd-uxA=/fit-in/246x300/filters:strip_icc()/pic6973911.jpg"
+    "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep/img/GnrjU-bLmrdUTF_H31vBMTd-uxA=/fit-in/246x300/filters:strip_icc()/pic6973911.jpg",
+    "players": "2-4",
+    "duration": "30-45"
   },
   {
     "id": 18,
     "name": "Two Rooms and a Boom",
-    "description": "Deux équipes s’affrontent dans deux salles en faisant passer des rôles secrets. Bluff et stratégie sociale sont essentiels.",
-    "image": "https://cf.geekdo-images.com/jmf0M01DsReKLByori6OGg__itemrep/img/6uBBecbvAHo4mkgq6k0KxSMhF-8=/fit-in/246x300/filters:strip_icc()/pic2335221.png"
+    "description": "Deux équipes s'affrontent dans deux salles en faisant passer des rôles secrets. Bluff et stratégie sociale sont essentiels.",
+    "image": "https://cf.geekdo-images.com/jmf0M01DsReKLByori6OGg__itemrep/img/6uBBecbvAHo4mkgq6k0KxSMhF-8=/fit-in/246x300/filters:strip_icc()/pic2335221.png",
+    "players": "6-30",
+    "duration": "15-30"
   },
   {
     "id": 19,
     "name": "Uno",
-    "description": "Défaussez-vous de toutes vos cartes avant les autres. Cartes spéciales et retournements de situation garantissent l’ambiance.",
-    "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg"
+    "description": "Défaussez-vous de toutes vos cartes avant les autres. Cartes spéciales et retournements de situation garantissent l'ambiance.",
+    "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg",
+    "players": "2-10",
+    "duration": "30"
   },
   {
     "id": 20,
     "name": "King of Monster Island",
-    "description": "Devenez le plus redoutable des monstres géants sur l’île. Coopération et affrontements ponctuent chaque partie.",
-    "image": "https://cf.geekdo-images.com/xxWHZdJ33jvv1Vg_eK_8dA__itemrep/img/UlGYlvt66n_Bd6W3vRbLbadXvWk=/fit-in/246x300/filters:strip_icc()/pic6873467.jpg"
+    "description": "Devenez le plus redoutable des monstres géants sur l'île. Coopération et affrontements ponctuent chaque partie.",
+    "image": "https://cf.geekdo-images.com/xxWHZdJ33jvv1Vg_eK_8dA__itemrep/img/UlGYlvt66n_Bd6W3vRbLbadXvWk=/fit-in/246x300/filters:strip_icc()/pic6873467.jpg",
+    "players": "1-5",
+    "duration": "60-90"
   },
   {
     "id": 21,
     "name": "The Big Book of Madness",
-    "description": "Affrontez des monstres libérés d’un grimoire avec des sorts et potions. Jeu coopératif où la coordination est la clé.",
-    "image": "https://cf.geekdo-images.com/-LL30JqMelQiFx51xjzIVg__itemrep/img/h-Vk11PQvBDdNpncigUVCBXQkUo=/fit-in/246x300/filters:strip_icc()/pic2750172.jpg"
+    "description": "Affrontez des monstres libérés d'un grimoire avec des sorts et potions. Jeu coopératif où la coordination est la clé.",
+    "image": "https://cf.geekdo-images.com/-LL30JqMelQiFx51xjzIVg__itemrep/img/h-Vk11PQvBDdNpncigUVCBXQkUo=/fit-in/246x300/filters:strip_icc()/pic2750172.jpg",
+    "players": "2-5",
+    "duration": "60-90"
   },
   {
     "id": 22,
     "name": "Captain Sonar",
-    "description": "Deux sous-marins s’affrontent en temps réel avec des équipes de 4 à 8 joueurs. Communication et stratégie sont essentielles pour gagner.",
-    "image": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__itemrep/img/0qNokH1lcUP6H6Wyd5jXJsLy-Ko=/fit-in/246x300/filters:strip_icc()/pic7069368.jpg"
+    "description": "Deux sous-marins s'affrontent en temps réel avec des équipes de 4 à 8 joueurs. Communication et stratégie sont essentielles pour gagner.",
+    "image": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__itemrep/img/0qNokH1lcUP6H6Wyd5jXJsLy-Ko=/fit-in/246x300/filters:strip_icc()/pic7069368.jpg",
+    "players": "4-8",
+    "duration": "45-60"
   },
   {
     "id": 23,
     "name": "Kronologic",
-    "description": "Reconstituez l’ordre chronologique d’événements dans une enquête passionnante. Déduction et mémoire sont mises à l’épreuve.",
-    "image": "https://cf.geekdo-images.com/BTLIJvNhaROMzo6cqP0aNw__itemrep/img/u37QnZcsKQ_KCkHIsTUju5QEW2M=/fit-in/246x300/filters:strip_icc()/pic7963849.png"
+    "description": "Reconstituez l'ordre chronologique d'événements dans une enquête passionnante. Déduction et mémoire sont mises à l'épreuve.",
+    "image": "https://cf.geekdo-images.com/BTLIJvNhaROMzo6cqP0aNw__itemrep/img/u37QnZcsKQ_KCkHIsTUju5QEW2M=/fit-in/246x300/filters:strip_icc()/pic7963849.png",
+    "players": "1-6",
+    "duration": "45-75"
   }
 ]

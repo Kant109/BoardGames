@@ -18,6 +18,8 @@ interface Game {
   name: string
   description: string
   image: string
+  players: string
+  duration: string
 }
 
 // Définition des props
@@ -49,6 +51,8 @@ const handleToggleFavorite = (id: number) => {
       :name="game.name"
       :description="game.description"
       :image="game.image"
+      :players="game.players"
+      :duration="game.duration"
       :is-favorite="favorites.has(game.id)"
       @toggle-favorite="handleToggleFavorite"
     />

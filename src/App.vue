@@ -19,6 +19,8 @@ interface Game {
   name: string
   description: string
   image: string
+  players: string
+  duration: string
 }
 
 // Clé pour le localStorage

@@ -19,6 +19,8 @@ interface Props {
   name: string
   description: string
   image: string
+  players: string
+  duration: string
   isFavorite: boolean
 }
 
@@ -49,6 +51,18 @@ const handleFavoriteClick = (id: number) => {
     <div class="game-content">
       <h3 class="game-title">{{ name }}</h3>
       <p class="game-description">{{ description }}</p>
+
+      <!-- Informations sur le jeu (joueurs et durée) -->
+      <div class="game-info">
+        <div class="info-item">
+          <span class="info-icon">👥</span>
+          <span class="info-text">{{ players }} joueurs</span>
+        </div>
+        <div class="info-item">
+          <span class="info-icon">⏱️</span>
+          <span class="info-text">{{ duration }} min</span>
+        </div>
+      </div>
 
       <!-- Bouton favori -->
       <button
@@ -160,11 +174,43 @@ const handleFavoriteClick = (id: number) => {
 
 /* Description du jeu */
 .game-description {
-  margin: 0 0 16px 0;
+  margin: 0 0 12px 0;
   font-size: 0.9rem;
   color: #7f8c8d;
   line-height: 1.5;
   flex: 1;
+}
+
+/* Informations du jeu (joueurs et durée) */
+.game-info {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+  justify-content: center;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  color: #495057;
+  font-weight: 500;
+  padding: 8px 12px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+  flex: 1;
+  justify-content: center;
+}
+
+.info-icon {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.info-text {
+  white-space: nowrap;
 }
 
 /* Bouton favori */
