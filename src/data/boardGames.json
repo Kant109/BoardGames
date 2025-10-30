@@ -182,5 +182,21 @@
     "image": "https://cf.geekdo-images.com/BTLIJvNhaROMzo6cqP0aNw__itemrep/img/u37QnZcsKQ_KCkHIsTUju5QEW2M=/fit-in/246x300/filters:strip_icc()/pic7963849.png",
     "players": "1-6",
     "duration": "45-75"
+  },
+  {
+    "id": 24,
+    "name": "Codex",
+    "description": "Vous incarnez un moine enlumineur chargé de poursuivre l’œuvre du manuscrit « Codex Naturalis », qui recense les espèces des quatre règnes vivants dans les forêts primaires. À chaque tour, vous placez une carte de votre main devant vous (souvent en recouvrant partiellement des cartes déjà posées) afin de recueillir des ressources, remplir des objectifs et marquer des points. Le premier joueur à atteindre un certain seuil (20 points dans certaines versions) déclenche la fin de partie.",
+    "image": "https://cf.geekdo-images.com/0I7U0tz-RgpIFWWco5FKLA__itemrep/img/KslJVipFSC2aBNhBtoRjlZ19hIk=/fit-in/246x300/filters:strip_icc()/pic5612161.png",
+    "players": "2–4",
+    "duration": "15–30"
+  },
+  {
+    "id": 25,
+    "name": "Code name",
+    "description": "Deux équipes s’affrontent : chaque “espion” donne un mot‑indice et un nombre, son équipe doit deviner les bons mots parmi une grille tout en évitant l’assassin.",
+    "image": "https://cf.geekdo-images.com/0VtqJ93krcU0X6it5zq7mA__imagepage/img/-IB63CKj3qfiMINQRuYcyekezMo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2945237.jpg",
+    "players": "4–8",
+    "duration": "15–30"
   }
 ]
