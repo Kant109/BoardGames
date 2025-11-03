@@ -23,7 +23,7 @@ onMounted(() => {
   const found = gameStore.games.find((g) => g.id === props.id);
   if (found) {
     game.value = found;
-    selectedImage.value = found.images != null ? found.images[0] : found.image;
+    selectedImage.value = found.images != null ? found.images[0]! : found.image!;
   }
 });
 
