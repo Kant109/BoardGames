@@ -1,104 +1,3 @@
-<script setup lang="ts">
-/**
- * App.vue - Composant principal de l'application
- *
- * Cette application permet de:
- * 1. Afficher une liste de jeux de société
- * 2. Marquer des jeux comme favoris
- * 3. Sauvegarder les favoris dans le localStorage
- * 4. Filtrer l'affichage (tous les jeux ou seulement les favoris)
- */
-
-import { ref, computed, onMounted } from 'vue'
-import GameGrid from './components/GameGrid.vue'
-import gamesData from './data/boardGames.json'
-
-// Interface pour un jeu
-interface Game {
-  id: number
-  name: string
-  description: string
-  image: string
-  players: string
-  duration: string
-}
-
-// Clé pour le localStorage
-const STORAGE_KEY = 'boardgames-favorites'
-
-// État réactif des favoris (utilisation d'un Set pour des opérations rapides)
-const favorites = ref<Set<number>>(new Set())
-
-// État du filtre d'affichage
-const filterMode = ref<'all' | 'favorites'>('all')
-
-// Chargement des favoris depuis le localStorage au démarrage
-onMounted(() => {
-  loadFavoritesFromStorage()
-})
-
-/**
- * Charge les favoris depuis le localStorage
- */
-const loadFavoritesFromStorage = () => {
-  try {
-    const stored = localStorage.getItem(STORAGE_KEY)
-    if (stored) {
-      const favArray = JSON.parse(stored) as number[]
-      favorites.value = new Set(favArray)
-    }
-  } catch (error) {
-    console.error('Erreur lors du chargement des favoris:', error)
-  }
-}
-
-/**
- * Sauvegarde les favoris dans le localStorage
- */
-const saveFavoritesToStorage = () => {
-  try {
-    const favArray = Array.from(favorites.value)
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(favArray))
-  } catch (error) {
-    console.error('Erreur lors de la sauvegarde des favoris:', error)
-  }
-}
-
-/**
- * Bascule un jeu en favori ou le retire des favoris
- */
-const toggleFavorite = (gameId: number) => {
-  if (favorites.value.has(gameId)) {
-    // Retire le jeu des favoris
-    favorites.value.delete(gameId)
-  } else {
-    // Ajoute le jeu aux favoris
-    favorites.value.add(gameId)
-  }
-
-  // Sauvegarde dans le localStorage
-  saveFavoritesToStorage()
-}
-
-/**
- * Liste des jeux filtrés selon le mode sélectionné
- */
-const filteredGames = computed(() => {
-  const games = gamesData as Game[]
-  if (filterMode.value === 'favorites') {
-    // Affiche uniquement les jeux favoris
-    return games.filter((game) => favorites.value.has(game.id))
-  }
-  // Affiche tous les jeux
-  return games
-})
-
-/**
- * Compte le nombre de favoris
- */
-const favoritesCount = computed(() => favorites.value.size)
-</script>
-
 <template>
   <div id="app">
     <!-- En-tête de l'application -->
@@ -113,30 +12,14 @@ const favoritesCount = computed(() => favorites.value.size)
 
     <!-- Grille des jeux -->
     <main class="app-main">
-      <!-- Message si aucun favori en mode favoris -->
-      <div v-if="filterMode === 'favorites' && favoritesCount === 0" class="empty-state">
-        <div class="empty-icon">🎯</div>
-        <h2>Aucun favori pour le moment</h2>
-        <p>Cliquez sur le bouton ❤️ d'un jeu pour l'ajouter à vos favoris !</p>
-        <button class="primary-button" @click="filterMode = 'all'">
-          Voir tous les jeux
-        </button>
-      </div>
-
-      <!-- Grille de jeux -->
-      <GameGrid
-        v-else
-        :games="filteredGames"
-        :favorites="favorites"
-        @toggle-favorite="toggleFavorite"
-      />
+      <router-view />
     </main>
 
     <!-- Pied de page -->
     <footer class="app-footer">
       <p>
-        💡 <strong>Astuce:</strong> Vos favoris sont sauvegardés automatiquement dans votre
-        navigateur
+        💡 <strong>Astuce:</strong> Vos favoris sont sauvegardés automatiquement
+        dans votre navigateur
       </p>
     </footer>
   </div>
@@ -151,8 +34,8 @@ const favoritesCount = computed(() => favorites.value.size)
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   min-height: 100vh;
   color: #2c3e50;

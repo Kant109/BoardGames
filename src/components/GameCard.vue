@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { useRouter } from 'vue-router';
+
+const router = useRouter();
 /**
  * Composant GameCard - Affiche une carte pour un jeu de société
  *
@@ -36,10 +39,14 @@ const emit = defineEmits<{
 const handleFavoriteClick = (id: number) => {
   emit('toggle-favorite', id)
 }
+
+const openDetail = (id: number) => {
+  router.push(`/game/${id}`);
+}
 </script>
 
 <template>
-  <div class="game-card" :class="{ 'is-favorite': isFavorite }">
+  <div class="game-card" :class="{ 'is-favorite': isFavorite }" @click.prevent="openDetail(id)">
     <!-- Image du jeu -->
     <div class="game-image">
       <img :src="image" :alt="name" />
@@ -68,7 +75,7 @@ const handleFavoriteClick = (id: number) => {
       <button
         class="favorite-button"
         :class="{ 'is-active': isFavorite }"
-        @click="handleFavoriteClick(id)"
+        @click.stop.prevent="handleFavoriteClick(id)"
         :aria-label="isFavorite ? 'Retirer des favoris' : 'Ajouter aux favoris'"
       >
         <span class="heart-icon">{{ isFavorite ? '❤️' : '🤍' }}</span>
@@ -96,6 +103,7 @@ const handleFavoriteClick = (id: number) => {
 .game-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 
 /* Bordure colorée pour les favoris */

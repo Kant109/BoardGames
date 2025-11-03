@@ -16,7 +16,7 @@ import GameCard from './GameCard.vue'
 interface Game {
   id: number
   name: string
-  description: string
+  short_description: string
   image: string
   players: string
   duration: string
@@ -49,7 +49,7 @@ const handleToggleFavorite = (id: number) => {
       :key="game.id"
       :id="game.id"
       :name="game.name"
-      :description="game.description"
+      :description="game.short_description"
       :image="game.image"
       :players="game.players"
       :duration="game.duration"

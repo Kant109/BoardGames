@@ -2,39 +2,64 @@
   {
     "id": 1,
     "name": "Mysterium",
-    "description": "Un jeu coopératif mystérieux où un fantôme guide les médiums pour résoudre son meurtre à travers des visions énigmatiques.",
+    "short_description": "Un jeu coopératif mystérieux où un fantôme guide les médiums pour résoudre son meurtre à travers des visions énigmatiques.",
+    "long_description": "Médiums émérites, astrologues la tête pas trop dans les étoiles, voyants ne perdant pas la boule, vous êtes tous conviés à une séance de spiritisme extraordinaire afin d'élucider un ancien mystère ! Le manoir hanté de Warwick, demeure de Mr MacDowell, vous ouvre ses portes. Mysterium est un jeu d’enquête coopératif dans lequel tout le monde perd ou tout le monde gagne. Les joueurs sont unis dans le but de découvrir les circonstances et le responsable du meurtre. Associations d’idées, discussions, intuition, déductions… Un grand moment de jeu, où le mystère perce par la simple force de vos esprits !\n\nUn jeu d’ambiance immersif à la mécanique simple, évidente et fun, avec un matériel somptueux, au service du jeu et une grande rejouabilité, avec un plaisir à chaque fois différent !",
     "image": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__itemrep/img/w_Dvb6hWYgSr_glCXZd3p6GqkTQ=/fit-in/246x300/filters:strip_icc()/pic8625343.jpg",
+    "images": [
+      "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__imagepage@2x/img/hvJvK0sEkHdUy8Z8watI5uTAnD0=/fit-in/1800x1200/filters:strip_icc()/pic2601683.jpg",
+      "https://cf.geekdo-images.com/2fTVBa-UPJbBDOySCar2ZQ__imagepage@2x/img/Z8PL7Y4xPqVt2AHvMY-CPLq0Pfc=/fit-in/1800x1200/filters:strip_icc()/pic4134323.jpg",
+      "https://cf.geekdo-images.com/DyQL1Fn3jI8cr0dvdTiqug__imagepage/img/M8lketyvmXoDykI5qtchgcae0a4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2601515.jpg"
+    ],
+    "how_to_play_link": "https://www.youtube.com/watch?v=Or13pbEfy6I",
     "players": "2-7",
     "duration": "42"
   },
   {
     "id": 2,
     "name": "Le bal des chaudrons",
-    "description": "Préparez vos potions et enchantements dans ce jeu de collecte d'ingrédients magiques, parfait pour une soirée enchantée.",
+    "short_description": "Préparez vos potions et enchantements dans ce jeu de collecte d'ingrédients magiques, parfait pour une soirée enchantée.",
+    "long_description": "Bienvenue dans l’atelier des sorcières ! Dans Le Bal des Chaudrons, vous incarnez de puissantes magiciennes s’affrontant à coups de potions explosives et de formules ensorcelées. Votre objectif : remplir le chaudron de votre adversaire avant que le vôtre ne déborde !\n\nChaque tour, récoltez des ingrédients, combinez-les avec soin et décidez si vous voulez concocter une potion douce ou une mixture destructrice. La tension monte à chaque tour alors que les chaudrons frémissent, prêts à éclater. Bluff, stratégie et gestion de risques seront vos meilleurs atouts pour triompher dans cette bataille magique pleine d’humour et de rebondissements !",
     "image": "https://cf.geekdo-images.com/Vghbon6jnyUg6oPQju7DyQ__itemrep/img/rtZHQTcxbxoAlUTA4-d8UVTQC4U=/fit-in/246x300/filters:strip_icc()/pic6088814.jpg",
+    "images": [
+      "https://cf.geekdo-images.com/Vghbon6jnyUg6oPQju7DyQ__imagepage@2x/img/8JDs7k13oJqzUGoV5t-TvE3Dyh8=/fit-in/1800x1200/filters:strip_icc()/pic6088814.jpg",
+      "https://cf.geekdo-images.com/E59dz163I_WKjflPEbGF0Q__imagepage@2x/img/A40PZk8Bn4TGiR0-q1UgR5UkEMM=/fit-in/1800x1200/filters:strip_icc()/pic6111997.jpg",
+      "https://cf.geekdo-images.com/BlbwWAs-ig2seVGGRd4Nvw__imagepage@2x/img/thKrNujMZON1mNP9tS1HpdS30fk=/fit-in/1800x1200/filters:strip_icc()/pic6088816.png"
+    ],
+    "how_to_play_link": "https://www.youtube.com/watch?v=Mby-ZTHvvLU",
     "players": "2-4",
     "duration": "45"
   },
   {
     "id": 3,
     "name": "Skull King",
-    "description": "Un jeu de plis où vous devez annoncer exactement combien de levées vous allez remporter. Pirates et sirènes ajoutent du piment!",
+    "short_description": "Un jeu de plis où vous devez annoncer exactement combien de levées vous allez remporter. Pirates et sirènes ajoutent du piment!",
+    "long_description": "Dans Skull King, chaque joueur doit prédire le nombre exact de plis qu’il remportera à chaque manche. Simple ? Pas vraiment ! Car dans cette mer déchaînée, pirates, sirènes et monstres marins viendront bouleverser vos plans.\n\nC’est un jeu de bluff, d’audace et de calcul où l’on rit souvent autant que l’on grince des dents. Les joueurs misent sur leur sens du timing et de la déduction pour tirer profit de leurs cartes tout en évitant de sombrer. Son univers coloré et ses illustrations pleines d’humour font de Skull King un incontournable des jeux d’ambiance stratégiques, où l’expérience et l’instinct comptent autant que la chance !",
     "image": "https://cf.geekdo-images.com/1qvA21HdRaPYwrn4tGDNaQ__itemrep/img/duwIufYC4mHrAqmv9Wp2qCg_jVI=/fit-in/246x300/filters:strip_icc()/pic8689185.jpg",
+    "images": [
+      "https://cf.geekdo-images.com/_3JDnA4Li7jcNrSWGD_IoA__imagepage/img/kdfGE8SrDbwwVxTOepVhLD1FpFo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6960387.jpg",
+      "https://cf.geekdo-images.com/JTI-sFp4qjsrj9Bi-gLx4w__imagepage@2x/img/MK0grg-VpZjCvvABTuEIQKGG6dA=/fit-in/1800x1200/filters:strip_icc()/pic7268126.jpg"
+    ],
     "players": "2-6",
     "duration": "30"
   },
   {
     "id": 4,
     "name": "Mille sabords",
-    "description": "Lancez les dés et tentez votre chance pour amasser le plus de richesses, mais attention aux têtes de mort qui mettent fin à votre tour!",
+    "short_description": "Lancez les dés et tentez votre chance pour amasser le plus de richesses, mais attention aux têtes de mort qui mettent fin à votre tour!",
+    "long_description": "À bord, moussaillon ! Mille Sabords est un jeu de dés où les pirates les plus audacieux affrontent le destin pour amasser un trésor colossal. À chaque lancer, vous décidez : continuez pour tenter d’augmenter vos gains, ou arrêtez avant que les têtes de mort ne ruinent votre butin.\n\nC’est un jeu de hasard et de prise de risque, mais aussi de stratégie, où il faut savoir quand s’arrêter. Entre rires, cris et coups de théâtre, Mille Sabords capture parfaitement l’esprit d’une aventure pirate : imprévisible, bruyante et terriblement fun !",
     "image": "https://cf.geekdo-images.com/ASvNr8Z7n4uuXiIeKTCpjA__itemrep/img/ZEB_lp-2_nPAvL1vs0Gbyv8yd3I=/fit-in/246x300/filters:strip_icc()/pic5755894.jpg",
+    "images": [
+      "https://cf.geekdo-images.com/0nYY32HVbquADtBzr3hsEA__imagepage/img/e-Oq3tZlwocXjd0Z0uKlwQbkGVw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1603979.jpg",
+      "https://cf.geekdo-images.com/awF2WnMqF0w4rGupdKp6kg__imagepage/img/0Vf8IEanl_vjbC2qUJWsipBQclY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4836113.jpg"
+    ],
     "players": "2-6",
     "duration": "30"
   },
   {
     "id": 5,
     "name": "Catan",
-    "description": "Le classique incontournable de la colonisation! Construisez routes, villages et cités sur l'île de Catan en négociant habilement.",
+    "short_description": "Le classique incontournable de la colonisation! Construisez routes, villages et cités sur l'île de Catan en négociant habilement.",
+    "long_description": "Devenez le maître de l’île de Catan en construisant villages, routes et cités tout en négociant avec vos adversaires pour obtenir les ressources dont vous avez besoin. Bois, pierre, blé, moutons et argile sont vos richesses, mais aussi vos défis : le hasard des dés et les échanges des autres joueurs décideront de votre succès.\n\nCatan est un pilier du jeu de société moderne, mélangeant stratégie, commerce et diplomatie. Chaque partie raconte une histoire unique faite d’alliances temporaires, de trahisons et de coups de chance mémorables. Un jeu accessible, profond et toujours aussi captivant après des décennies.",
     "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__itemrep/img/6Jf5G-bSvdOIMUSwxsJfZXl29B8=/fit-in/246x300/filters:strip_icc()/pic9156909.png",
     "players": "3-4",
     "duration": "60-120"
@@ -42,7 +67,8 @@
   {
     "id": 6,
     "name": "Res Arcana",
-    "description": "Un jeu de gestion de ressources où vous incarnez un mage combinant artefacts et créatures pour atteindre 10 points de victoire.",
+    "short_description": "Un jeu de gestion de ressources où vous incarnez un mage combinant artefacts et créatures pour atteindre 10 points de victoire.",
+    "long_description": "Dans Res Arcana, chaque joueur incarne un mage puissant rivalisant pour atteindre la suprématie magique. À l’aide de créatures mythiques, d’artefacts anciens et d’essences mystiques, vous devrez combiner vos cartes avec intelligence pour créer des synergies redoutables.\n\nChaque partie se joue en tension : faut-il produire davantage de ressources ou miser sur des points rapides ? Le matériel somptueux et la profondeur stratégique en font un jeu de cartes expert, élégant et extrêmement rejouable. Une perle pour ceux qui aiment planifier, optimiser et triompher par la réflexion pure.",
     "image": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__itemrep/img/kSOcgfYrimNkhTcWZzNgLa4CfvA=/fit-in/246x300/filters:strip_icc()/pic4422847.jpg",
     "players": "2-4",
     "duration": "20-60"
@@ -50,7 +76,8 @@
   {
     "id": 7,
     "name": "Akropolis",
-    "description": "Construisez la plus belle cité grecque en empilant tuiles et quartiers. L'optimisation spatiale est la clé de la victoire!",
+    "short_description": "Construisez la plus belle cité grecque en empilant tuiles et quartiers. L'optimisation spatiale est la clé de la victoire!",
+    "long_description": "Bienvenue dans la Grèce antique ! Dans Akropolis, vous incarnez un architecte chargé d’élever une cité resplendissante. À l’aide de tuiles représentant des quartiers variés, vous construirez des étages successifs pour maximiser vos points de prestige.\n\nChaque décision compte : où placer la carrière pour obtenir plus de pierres ? Comment empiler les quartiers résidentiels ou militaires pour multiplier les bonus ? Simple à apprendre mais diaboliquement malin, Akropolis combine réflexion géométrique et satisfaction visuelle à chaque nouvelle couche posée. Une vraie leçon d’urbanisme antique !",
     "image": "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__itemrep/img/Z9D0pCwwJ8tdOq6u1RC4ZGvw4yw=/fit-in/246x300/filters:strip_icc()/pic6705097.jpg",
     "players": "2-4",
     "duration": "20-30"
@@ -58,7 +85,8 @@
   {
     "id": 8,
     "name": "Cascadia",
-    "description": "Créez des habitats harmonieux en plaçant tuiles et animaux. Un jeu de draft apaisant aux règles simples et à la profondeur stratégique.",
+    "short_description": "Créez des habitats harmonieux en plaçant tuiles et animaux. Un jeu de draft apaisant aux règles simples et à la profondeur stratégique.",
+    "long_description": "Dans Cascadia, vous partez en expédition dans les paysages du Nord-Ouest américain pour construire des habitats naturels accueillant les espèces locales. Chaque tour, vous placez une tuile et un jeton animal pour créer un écosystème équilibré et harmonieux.\n\nSous ses airs paisibles, Cascadia cache une vraie profondeur stratégique : faut-il privilégier les chaînes de forêts ou la diversité ? L’esthétique zen, les règles intuitives et la satisfaction visuelle à chaque pose en font un jeu à la fois relaxant et stimulant, parfait pour tous les publics.",
     "image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg",
     "players": "1-4",
     "duration": "30-45"
@@ -66,7 +94,8 @@
   {
     "id": 9,
     "name": "Dune Imperium",
-    "description": "Mélange worker placement et deckbuilding dans l'univers de Dune. Contrôlez l'épice pour dominer l'Imperium!",
+    "short_description": "Mélange worker placement et deckbuilding dans l'univers de Dune. Contrôlez l'épice pour dominer l'Imperium!",
+    "long_description": "Sur la planète Arrakis, seule l’épice donne le pouvoir. Dans Dune: Imperium, incarnez l’une des grandes maisons du Landsraad et manœuvrez entre intrigues politiques, batailles militaires et jeux d’influence.\n\nLe jeu marie placement d’ouvriers et deckbuilding pour un équilibre stratégique d’une rare intensité. Chaque décision est lourde de conséquences : envoyerez-vous vos agents dans les sables ou au cœur du Sénat impérial ? Dune Imperium capture l’essence de l’univers de Frank Herbert dans un jeu tendu, exigeant et épique, où la victoire se mérite à la sueur et à la ruse.",
     "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep/img/3_xJ0tO5L62bUp2oRfjeVS0DHX0=/fit-in/246x300/filters:strip_icc()/pic5666597.jpg",
     "players": "1-4",
     "duration": "60-120"
@@ -74,7 +103,8 @@
   {
     "id": 10,
     "name": "Brass Lancashire",
-    "description": "Un jeu économique exigeant sur la révolution industrielle en Angleterre. Construisez canaux, mines et industries.",
+    "short_description": "Un jeu économique exigeant sur la révolution industrielle en Angleterre. Construisez canaux, mines et industries.",
+    "long_description": "Entrez au cœur de la Révolution industrielle ! Dans Brass: Lancashire, vous incarnez un entrepreneur anglais cherchant à bâtir un empire économique. Construisez des usines, développez vos réseaux de transport et adaptez-vous aux fluctuations du marché.\n\nC’est un jeu de stratégie profonde où chaque décision influence plusieurs tours à l’avance. Les interactions sont constantes, les ressources limitées et la concurrence féroce. Chef-d’œuvre de Martin Wallace, Brass est un classique incontournable pour les amateurs de gestion et de planification à long terme.",
     "image": "https://cf.geekdo-images.com/tHVtPzu82mBpeQbbZkV6EA__itemrep/img/A9DQBjrHvs1YlYCWMD0mtp-jnNc=/fit-in/246x300/filters:strip_icc()/pic3469216.jpg",
     "players": "2-4",
     "duration": "60-120"
@@ -82,7 +112,8 @@
   {
     "id": 11,
     "name": "Azul",
-    "description": "Décorez les murs du palais royal en sélectionnant stratégiquement des azulejos colorés. Élégant et addictif!",
+    "short_description": "Décorez les murs du palais royal en sélectionnant stratégiquement des azulejos colorés. Élégant et addictif!",
+    "long_description": "Les azulejos, ces carreaux de faïence portugais, n’attendent que vous pour orner le palais royal d’Évora. Dans Azul, vous sélectionnez minutieusement vos tuiles pour composer les plus beaux motifs tout en anticipant les choix de vos adversaires.\n\nChaque décision est un équilibre entre esthétique et optimisation. Les règles simples cachent une tension stratégique constante, et le matériel somptueux donne un vrai plaisir tactile. Élégant, apaisant et compétitif à la fois, Azul est une œuvre d’art ludique autant qu’un jeu.",
     "image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png",
     "players": "2-4",
     "duration": "30-45"
@@ -90,7 +121,8 @@
   {
     "id": 12,
     "name": "Darwin",
-    "description": "Faites évoluer votre espèce en adaptant ses caractéristiques pour survivre aux changements climatiques et environnementaux.",
+    "short_description": "Faites évoluer votre espèce en adaptant ses caractéristiques pour survivre aux changements climatiques et environnementaux.",
+    "long_description": "Dans Darwin, chaque joueur incarne un explorateur ou un scientifique suivant les traces du célèbre naturaliste. Collectez des spécimens, étudiez les espèces et adaptez vos découvertes aux lois de l’évolution.\n\nCe jeu mélange observation, gestion et opportunisme. Chaque partie raconte une histoire scientifique fascinante, où le hasard de la nature se mêle à la rigueur de la recherche. Poétique, intelligent et magnifiquement illustré, Darwin rend hommage à la curiosité et à la découverte.",
     "image": "https://cf.geekdo-images.com/1KPQC8pVuTXL32RdbTxDjw__itemrep/img/qERM9Gdsk2NVgdiN1HhD9pC5vDg=/fit-in/246x300/filters:strip_icc()/pic7234392.jpg",
     "players": "2-4",
     "duration": "30-60"
@@ -98,7 +130,8 @@
   {
     "id": 13,
     "name": "Marie Curie",
-    "description": "Incarnez des scientifiques cherchant à faire des découvertes révolutionnaires en collectant et combinant ressources et éléments.",
+    "short_description": "Incarnez des scientifiques cherchant à faire des découvertes révolutionnaires en collectant et combinant ressources et éléments.",
+    "long_description": "Incarnez Marie Curie ou ses contemporains dans un jeu de stratégie et de découverte scientifique. Collectez des éléments, réalisez des expériences et partagez vos découvertes avec la communauté.\n\nÀ la croisée de la gestion de ressources et de la course à la recherche, le jeu récompense la rigueur",
     "image": "https://cf.geekdo-images.com/z7XZ5_k20MNN2gcxShqZwQ__itemrep/img/BDEP-DT_93mfC0ed5c9jgtIWWzk=/fit-in/246x300/filters:strip_icc()/pic7999443.png",
     "players": "1-4",
     "duration": "30-60"
@@ -106,7 +139,8 @@
   {
     "id": 14,
     "name": "Le Donjon de Naheulbeuk",
-    "description": "Explorez un donjon rempli de pièges et de monstres dans une aventure humoristique. Coopération et improvisation sont de mise.",
+    "short_description": "Explorez un donjon rempli de pièges et de monstres dans une aventure humoristique. Coopération et improvisation sont de mise.",
+    "long_description": "Entrez dans le Donjon de Naheulbeuk, un lieu aussi absurde que dangereux ! Incarnez une bande d’aventuriers aussi courageux que maladroits, venus chercher la gloire, la fortune... ou simplement une sortie. Le jeu reprend tout l’humour et la folie de la saga culte, mêlant exploration, affrontements et événements imprévisibles.\n\nChaque pièce du donjon réserve son lot de pièges, de monstres et de quiproquos hilarants. Coordination et entraide sont essentielles, mais la malchance et la bêtise sont souvent vos pires ennemies. Un jeu coopératif plein de rebondissements et d’autodérision, pour ceux qui aiment le chaos contrôlé !",
     "image": "https://cf.geekdo-images.com/4jo_aKkkFDz318mmfpwIVw__itemrep/img/PBFCY2zAJ-NlzDUTdNdUQzsmwZQ=/fit-in/246x300/filters:strip_icc()/pic1716862.png",
     "players": "2-5",
     "duration": "60-90"
@@ -114,7 +148,8 @@
   {
     "id": 15,
     "name": "TTMC",
-    "description": "Débattez et auto-évaluez vos connaissances dans des situations amusantes et surprenantes. Un jeu d'ambiance et de culture générale.",
+    "short_description": "Débattez et auto-évaluez vos connaissances dans des situations amusantes et surprenantes. Un jeu d'ambiance et de culture générale.",
+    "long_description": "TTMC — ou 'Tu Te Mets Combien ?' — est un jeu d’ambiance et de culture générale pas comme les autres. Ici, pas de simples questions-réponses : avant chaque manche, vous évaluez votre niveau de confiance sur un sujet, de 1 à 10. Plus vous visez haut, plus la question est difficile… mais plus elle rapporte de points !\n\nL’humour est omniprésent, les thèmes décalés, et les discussions s’enchaînent autour de la table. Que vous soyez un puits de savoir ou un improvisateur talentueux, TTMC promet rires, surprises et débats passionnés à chaque partie.",
     "image": "https://cf.geekdo-images.com/MwprNXpMeLcweqtw-XH_yQ__itemrep/img/qgaabYDGFTI2R4H0xGzmZLeiBE4=/fit-in/246x300/filters:strip_icc()/pic4357288.png",
     "players": "2-16",
     "duration": "30-60"
@@ -122,7 +157,8 @@
   {
     "id": 16,
     "name": "Odin",
-    "description": "Menez votre peuple viking à la prospérité grâce au placement d'ouvriers et à la gestion des ressources. Stratégie et planification sont primordiales.",
+    "short_description": "Menez votre peuple viking à la prospérité grâce au placement d'ouvriers et à la gestion des ressources. Stratégie et planification sont primordiales.",
+    "long_description": "Dans A Feast for Odin (Odin), prenez la tête d’un clan viking et menez votre peuple vers la prospérité. Chasse, pillage, exploration, élevage… chaque choix forge le destin de votre tribu.\n\nVéritable chef-d’œuvre de placement d’ouvriers, Odin combine stratégie, optimisation et une liberté d’action impressionnante. Chaque partie raconte l’évolution unique de votre civilisation nordique, entre prospérité et expansion. Une expérience riche, immersive et gratifiante pour les amateurs de jeux exigeants.",
     "image": "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__itemrep/img/shH_xtvVrn_DU4pNe2-2BlMTknA=/fit-in/246x300/filters:strip_icc()/pic7921978.jpg",
     "players": "1-4",
     "duration": "30-140"
@@ -130,23 +166,26 @@
   {
     "id": 17,
     "name": "Sea Salt and Paper",
-    "description": "Collectionnez des cartes et créez des combos dans un univers marin. Un jeu rapide et tactique pour amateurs de cartes.",
+    "short_description": "Collectionnez des cartes et créez des combos dans un univers marin. Un jeu rapide et tactique pour amateurs de cartes.",
     "image": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__itemrep/img/GnrjU-bLmrdUTF_H31vBMTd-uxA=/fit-in/246x300/filters:strip_icc()/pic6973911.jpg",
+    "long_description": "Sea Salt & Paper est un jeu de cartes poétique et malin, où chaque carte est une œuvre d’art pliée dans un monde marin en origami. Collectez des paires, créez des combinaisons et décidez du moment parfait pour mettre fin à la manche.\n\nSous son format minimaliste se cache un jeu subtil de timing et de bluff. Faut-il continuer pour faire un meilleur score, ou s’arrêter avant qu’un adversaire ne prenne l’avantage ? Une pépite de design, à la fois calme, stratégique et pleine de tension.",
     "players": "2-4",
     "duration": "30-45"
   },
   {
     "id": 18,
     "name": "Two Rooms and a Boom",
-    "description": "Deux équipes s'affrontent dans deux salles en faisant passer des rôles secrets. Bluff et stratégie sociale sont essentiels.",
+    "short_description": "Deux équipes s'affrontent dans deux salles en faisant passer des rôles secrets. Bluff et stratégie sociale sont essentiels.",
     "image": "https://cf.geekdo-images.com/jmf0M01DsReKLByori6OGg__itemrep/img/6uBBecbvAHo4mkgq6k0KxSMhF-8=/fit-in/246x300/filters:strip_icc()/pic2335221.png",
+    "long_description": "Two Rooms and a Boom est un jeu d’ambiance et de bluff explosif, parfait pour les grandes tablées. Les joueurs sont divisés en deux salles : les Rouges veulent faire exploser le Président, les Bleus veulent le protéger. Mais personne ne sait vraiment qui est qui...\n\nAu fil des manches, les participants échangent, mentent, révèlent partiellement leur rôle et changent de pièce. Entre tension sociale et fous rires, ce jeu est une expérience collective unique, proche du théâtre d’improvisation ludique. Plus on est nombreux, plus c’est explosif !",
     "players": "6-30",
     "duration": "15-30"
   },
   {
     "id": 19,
     "name": "Uno",
-    "description": "Défaussez-vous de toutes vos cartes avant les autres. Cartes spéciales et retournements de situation garantissent l'ambiance.",
+    "short_description": "Défaussez-vous de toutes vos cartes avant les autres. Cartes spéciales et retournements de situation garantissent l'ambiance.",
+    "long_description": "UNO est un classique indémodable où votre objectif est simple : être le premier à vous débarrasser de toutes vos cartes. Mais attention, les cartes spéciales — +2, inversion, passe ton tour ou changement de couleur — peuvent tout bouleverser en un instant.\n\nFacile à apprendre, rapide et plein de retournements de situation, UNO est un incontournable des soirées en famille ou entre amis. Chaque partie est une montagne russe d’émotions entre cris de joie et exclamations de désespoir au moment de crier... UNO !",
     "image": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__itemrep/img/m4GOPbjQ_C6lclrlQQqvLkVtyo8=/fit-in/246x300/filters:strip_icc()/pic8204165.jpg",
     "players": "2-10",
     "duration": "30"
@@ -154,7 +193,8 @@
   {
     "id": 20,
     "name": "King of Monster Island",
-    "description": "Devenez le plus redoutable des monstres géants sur l'île. Coopération et affrontements ponctuent chaque partie.",
+    "short_description": "Devenez le plus redoutable des monstres géants sur l'île. Coopération et affrontements ponctuent chaque partie.",
+    "long_description": "Dans King of Monster Island, incarnez d’immenses monstres coopérant pour affronter un adversaire encore plus gigantesque. Ensemble, vous devez détruire ses défenses, esquiver ses attaques et sauver l’île avant qu’il ne soit trop tard.\n\nMêlant coopération, tension et jets de dés spectaculaires, le jeu offre une expérience cinématique et pleine d’énergie. Inspiré de King of Tokyo, il pousse le concept encore plus loin, ajoutant un vrai sentiment d’urgence et de stratégie collective. Un régal pour les amateurs de monstres et de chaos organisé !",
     "image": "https://cf.geekdo-images.com/xxWHZdJ33jvv1Vg_eK_8dA__itemrep/img/UlGYlvt66n_Bd6W3vRbLbadXvWk=/fit-in/246x300/filters:strip_icc()/pic6873467.jpg",
     "players": "1-5",
     "duration": "60-90"
@@ -162,7 +202,8 @@
   {
     "id": 21,
     "name": "The Big Book of Madness",
-    "description": "Affrontez des monstres libérés d'un grimoire avec des sorts et potions. Jeu coopératif où la coordination est la clé.",
+    "short_description": "Affrontez des monstres libérés d'un grimoire avec des sorts et potions. Jeu coopératif où la coordination est la clé.",
+    "long_description": "Dans The Big Book of Madness, vous ouvrez un grimoire ancien rempli de monstres terrifiants… et les libérez accidentellement ! Vous devrez collaborer pour refermer le livre avant qu’il ne soit trop tard, en utilisant vos sorts, votre mémoire et votre esprit d’équipe.\n\nChaque tour apporte son lot de décisions tendues : apprendre un nouveau sort, soigner un coéquipier ou repousser un monstre ? Ce jeu coopératif exigeant combine deckbuilding et planification collective, dans une ambiance magique et prenante. Une aventure épique pour les apprentis sorciers !",
     "image": "https://cf.geekdo-images.com/-LL30JqMelQiFx51xjzIVg__itemrep/img/h-Vk11PQvBDdNpncigUVCBXQkUo=/fit-in/246x300/filters:strip_icc()/pic2750172.jpg",
     "players": "2-5",
     "duration": "60-90"
@@ -170,7 +211,8 @@
   {
     "id": 22,
     "name": "Captain Sonar",
-    "description": "Deux sous-marins s'affrontent en temps réel avec des équipes de 4 à 8 joueurs. Communication et stratégie sont essentielles pour gagner.",
+    "short_description": "Deux sous-marins s'affrontent en temps réel avec des équipes de 4 à 8 joueurs. Communication et stratégie sont essentielles pour gagner.",
+    "long_description": "Dans Captain Sonar, deux équipages s’affrontent à bord de sous-marins furtifs. Chaque joueur tient un rôle crucial : capitaine, mécanicien, opérateur radio, ou second. La communication, la coordination et les réflexes sont essentiels pour repérer et couler le navire ennemi.\n\nJoué en temps réel, le jeu crée une tension palpable, entre rires nerveux et cris de victoire. Véritable bataille navale moderne, Captain Sonar transforme la table en champ de bataille sonore et stratégique. Un incontournable des soirées à huit !",
     "image": "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__itemrep/img/0qNokH1lcUP6H6Wyd5jXJsLy-Ko=/fit-in/246x300/filters:strip_icc()/pic7069368.jpg",
     "players": "4-8",
     "duration": "45-60"
@@ -178,7 +220,8 @@
   {
     "id": 23,
     "name": "Kronologic",
-    "description": "Reconstituez l'ordre chronologique d'événements dans une enquête passionnante. Déduction et mémoire sont mises à l'épreuve.",
+    "short_description": "Reconstituez l'ordre chronologique d'événements dans une enquête passionnante. Déduction et mémoire sont mises à l'épreuve.",
+    "long_description": "Kronologic est un jeu de déduction et de réflexion où les joueurs doivent replacer des événements dans le bon ordre chronologique pour résoudre une enquête. Observation, mémoire et logique sont vos meilleures armes.\n\nChaque scénario vous plonge dans une intrigue intrigante mêlant mystère et science. Faut-il se fier aux indices matériels ou aux témoignages ? Un jeu immersif et intelligent, parfait pour les esprits curieux et les amateurs d’énigmes à résoudre en groupe.",
     "image": "https://cf.geekdo-images.com/BTLIJvNhaROMzo6cqP0aNw__itemrep/img/u37QnZcsKQ_KCkHIsTUju5QEW2M=/fit-in/246x300/filters:strip_icc()/pic7963849.png",
     "players": "1-6",
     "duration": "45-75"
@@ -186,7 +229,8 @@
   {
     "id": 24,
     "name": "Codex",
-    "description": "Vous incarnez un moine enlumineur chargé de poursuivre l’œuvre du manuscrit « Codex Naturalis », qui recense les espèces des quatre règnes vivants dans les forêts primaires.",
+    "short_description": "Vous incarnez un moine enlumineur chargé de poursuivre l’œuvre du manuscrit « Codex Naturalis », qui recense les espèces des quatre règnes vivants dans les forêts primaires.",
+    "long_description": "Dans Codex Naturalis, incarnez un moine enlumineur travaillant à la rédaction d’un manuscrit sacré recensant les espèces des forêts primaires. Superposez vos cartes avec soin pour créer un équilibre parfait entre esthétique et efficacité.\n\nChaque carte peut rapporter des points ou débloquer de nouvelles possibilités, selon la façon dont elle est posée. Ce jeu est un bijou de finesse visuelle et de stratégie légère, combinant réflexion et plaisir tactile dans un univers doré et apaisant.",
     "image": "https://cf.geekdo-images.com/0I7U0tz-RgpIFWWco5FKLA__itemrep/img/KslJVipFSC2aBNhBtoRjlZ19hIk=/fit-in/246x300/filters:strip_icc()/pic5612161.png",
     "players": "2–4",
     "duration": "15–30"
@@ -194,7 +238,8 @@
   {
     "id": 25,
     "name": "Code name",
-    "description": "Deux équipes s’affrontent : chaque “espion” donne un mot‑indice et un nombre, son équipe doit deviner les bons mots parmi une grille tout en évitant l’assassin.",
+    "short_description": "Deux équipes s’affrontent : chaque “espion” donne un mot‑indice et un nombre, son équipe doit deviner les bons mots parmi une grille tout en évitant l’assassin.",
+    "long_description": "Dans Code Name, deux équipes s’affrontent pour retrouver leurs agents cachés à partir d’un simple mot-indice. Chaque maître-espion doit faire deviner plusieurs mots à son équipe, sans que celle-ci ne tombe sur l’assassin.\n\nL’art du langage, de l’association d’idées et du sang-froid font toute la richesse du jeu. Accessible, malin et rejouable à l’infini, Code Name crée des moments d’éclats de rire et de tension où un seul mot peut tout faire basculer.",
     "image": "https://cf.geekdo-images.com/0VtqJ93krcU0X6it5zq7mA__imagepage/img/-IB63CKj3qfiMINQRuYcyekezMo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2945237.jpg",
     "players": "4–8",
     "duration": "15–30"
